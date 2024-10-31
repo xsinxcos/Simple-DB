@@ -15,7 +15,6 @@ import java.util.concurrent.locks.ReentrantLock;
  * 事务管理实现类
  *
  * @author : wzq
- * @since : 2024-10-23 19:17
  **/
 public class TransactionManagerImpl implements TransactionManager{
     // XID文件头长度

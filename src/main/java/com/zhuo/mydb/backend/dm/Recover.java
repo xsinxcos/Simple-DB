@@ -15,7 +15,6 @@ import java.util.Arrays;
 
 /**
  * @author : wzq
- * @since : 2024-10-23 23:42
  **/
 public class Recover {
     private static final byte LOG_TYPE_INSERT = 0;

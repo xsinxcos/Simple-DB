@@ -8,7 +8,6 @@ import com.zhuo.mydb.backend.tm.TransactionManager;
 
 /**
  * @author : wzq
- * @since : 2024-10-24 20:31
  **/
 public interface DataManager {
     DataItem read(long uid) throws Exception;

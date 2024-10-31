@@ -14,7 +14,6 @@ import java.nio.channels.FileChannel;
  * 事务管理抽象接口
  *
  * @author : wzq
- * @since : 2024-10-23 19:12
  **/
 public interface TransactionManager {
     //开启一个新事务

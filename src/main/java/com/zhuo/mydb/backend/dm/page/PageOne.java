@@ -11,7 +11,6 @@ import java.util.Arrays;
  * db启动时给100~107字节处填入一个随机字节，db关闭时将其拷贝到108~115字节
  * 用于判断上一次数据库是否正常关闭
  * @author : wzq
- * @since : 2024-10-23 20:30
  **/
 public class PageOne {
     private static final int OF_VC = 100;

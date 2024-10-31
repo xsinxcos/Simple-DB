@@ -4,7 +4,6 @@ import com.zhuo.mydb.common.Error;
 
 /**
  * @author : wzq
- * @since : 2024-10-30 23:20
  **/
 public class Tokenizer {
     private byte[] stat;

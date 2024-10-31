@@ -8,7 +8,6 @@ import java.util.List;
 
 /**
  * @author : wzq
- * @since : 2024-10-30 23:19
  **/
 public class Parser {
     public static Object Parse(byte[] statement) throws Exception {

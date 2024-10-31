@@ -13,7 +13,6 @@ import java.nio.channels.FileChannel;
 
 /**
  * @author : wzq
- * @since : 2024-10-23 23:08
  **/
 public interface Logger {
     void log(byte[] data);

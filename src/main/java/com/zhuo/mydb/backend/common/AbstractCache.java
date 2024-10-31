@@ -11,7 +11,6 @@ import java.util.concurrent.locks.ReentrantLock;
  * 引用计数类型框架
  *
  * @author : wzq
- * @since : 2024-10-23 20:00
  **/
 public abstract class AbstractCache<T> {
     private HashMap<Long, T> cache;                     // 实际缓存的数据

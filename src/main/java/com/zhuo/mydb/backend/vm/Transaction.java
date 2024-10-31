@@ -8,7 +8,6 @@ import java.util.Map;
 /**
  * vm对一个事务的抽象
  * @author : wzq
- * @since : 2024-10-25 15:07
  **/
 public class Transaction {
     //当前事务的xid

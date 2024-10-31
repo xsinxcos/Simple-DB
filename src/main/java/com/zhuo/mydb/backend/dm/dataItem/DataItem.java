@@ -11,7 +11,6 @@ import java.util.Arrays;
 
 /**
  * @author : wzq
- * @since : 2024-10-24 20:29
  **/
 public interface DataItem {
     SubArray data();

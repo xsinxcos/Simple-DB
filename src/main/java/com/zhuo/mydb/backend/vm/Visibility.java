@@ -4,7 +4,6 @@ import com.zhuo.mydb.backend.tm.TransactionManager;
 
 /**
  * @author : wzq
- * @since : 2024-10-30 20:02
  **/
 public class Visibility {
     public static boolean isVersionSkip(TransactionManager tm, Transaction t, Entry e){
